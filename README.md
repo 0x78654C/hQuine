@@ -9,6 +9,7 @@ https://github.com/0x78654C/hQuine/assets/13780514/5fa4a4ba-af07-4d68-aeb5-61b3b
 
 ## Requirements
 .NET 7 and upper
+
 Windows only
 
 ## Quine definition:
